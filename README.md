@@ -1,6 +1,6 @@
 Bootstrap for Shopify Theme using Timber
 
-<a href="http://www.shopify.com/?ref=nant-helygan">Shopify Ecommerce - Start your FREE trial now!</a>
+<a href="http://www.shopify.com/?ref=nant-helygan">Shopify Ecommerce</a>
 
 ## Pre-requisites
 
